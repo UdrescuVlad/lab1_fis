@@ -23,6 +23,7 @@ public class ProcesorCautare implements Procesor {
                 }
             }
         }
+        System.out.println("CHANGES!");
 
         return res;
     }
